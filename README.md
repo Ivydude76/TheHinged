@@ -11,6 +11,8 @@ How to use from terminal:
 
   Git clone https://github.com/Ivydude76/TheHinged
 
+  Pip install -r requirements.txt
+
   cd TheHinged
 
   cd web_tools or cd bat_tools
