@@ -1,4 +1,5 @@
 import socket
-url="codespeedy.com"
+w=input("Enter url:")
+url=(w)
 print("IP:",socket.gethostbyname(url))
 
