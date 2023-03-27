@@ -9,9 +9,9 @@ bat_tools: its batch files for getting information from the victim (easy to use)
 
 How to use from terminal:
 
-  Git clone https://github.com/Ivydude76/TheHinged
+  git clone https://github.com/Ivydude76/TheHinged
 
-  Pip install -r requirements.txt
+  pip install -r requirements.txt
 
   cd TheHinged
 
